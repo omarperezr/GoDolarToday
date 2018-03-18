@@ -5,7 +5,7 @@ Un aplicacion para la terminal donde podras obtener informacion rapida y directa
 
 Metodo 1:
 1) Descarga este repositorio 
-2) `Go install goDolarToday.go`
+2) `go install goDolarToday.go`
 
 Metodo 2:
 1) Descarga el ultimo release https://github.com/XSingularity/GoDolarToday/releases
