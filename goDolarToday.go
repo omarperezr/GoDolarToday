@@ -153,10 +153,10 @@ func Dotf(v float64) string {
 func help(x string) {
 	if !opciones[x] && x != "help" {
 		fmt.Printf("\n%s: no es un argumento valido\n", x)
-		fmt.Println("uso: dolarToday [help] [all] [dtoday] [dcucuta] [dbitcoin] [dimpli] [etoday] [ecucuta] [dbitcoin] [eimpli]")
+		fmt.Println("uso: goDolarToday [help] [all] [dtoday] [dcucuta] [dbitcoin] [dimpli] [etoday] [ecucuta] [dbitcoin] [eimpli]")
 	} else {
 		fmt.Println(`
-uso: dolarToday [help] [all] [dtoday] [dcucuta] [dbitcoin] [ddicom] [dimpli] [etoday] [ecucuta] [dbitcoin] [ddicom] [eimpli]
+uso: goDolarToday [help] [all] [dtoday] [dcucuta] [dbitcoin] [ddicom] [dimpli] [etoday] [ecucuta] [dbitcoin] [ddicom] [eimpli]
 
 argumentos opcionales:
   help	Muestra este mensaje de ayuda
