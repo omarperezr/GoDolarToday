@@ -1,7 +1,7 @@
 # GoDolarToday
 Un aplicacion para la terminal donde podras obtener informacion rapida y directamente de Dolar Today!
 
-<h2>Instalacion:<h2>
+<h3>Instalacion:</h3>
 
 Metodo 1:
 1) Descarga este repositorio 
@@ -11,7 +11,7 @@ Metodo 2:
 1) Descarga el ultimo release https://github.com/XSingularity/GoDolarToday/releases
 2) Agrega el ejecutable (dependiendo de tu sistema) al PATH
 
-<h2>Uso:<h2>
+<h3>Uso:</h3>
 
 Ejecuta el ejecutable para obtener la informacion estandar de Dolar Today
 
